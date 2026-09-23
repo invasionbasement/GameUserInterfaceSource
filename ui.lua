@@ -771,10 +771,6 @@ local Library do
             end
         end
 
-        CustomFont:New("Monaco", 400, "Regular", {
-            Url = "d"
-        })
-
         Library.Font = Font.fromEnum(Enum.Font.Arcade)
     end
 
